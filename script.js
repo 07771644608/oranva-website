@@ -23,7 +23,7 @@ function startCounters(){
 
         function updateCounter(){
 
-            let increment = target / 100;
+            let increment = target / 200;
 
 
             if(count < target){
