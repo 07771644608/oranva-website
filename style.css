@@ -661,3 +661,14 @@ footer a:hover{
     object-fit: contain;
     filter: drop-shadow(0 20px 40px rgba(0, 212, 255, 0.15));
 }
+/* ===========================
+   ANCHOR SCROLL FIX
+=========================== */
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    scroll-margin-top: 100px;
+}
